@@ -1,6 +1,5 @@
-[中文](./README-ZH.md)
-
 #  hhooks
+
 
 A high-quality React And Vue Hooks library.
 
