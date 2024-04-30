@@ -1,10 +1,8 @@
 #  hhooks
 
+一个高质量的 React 和 Vue 的 Hooks 库。
 
-A high-quality React And Vue Hooks library.
-
-
-## Install
+## 安装
 
 ```bash
 git clone https://github.com/huala-fun/hhooks.git
@@ -12,10 +10,8 @@ cd hhooks
 pnpm install
 ```
 
-
-## dev
+## 运行
 
 ```bash
-
 pnpm run dev
 ```
