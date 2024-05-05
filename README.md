@@ -4,7 +4,7 @@
 
 A high-quality React And Vue Hooks library.
 
-## Install
+## Download and Install
 
 ```bash
 git clone https://github.com/huala-fun/hhooks.git
