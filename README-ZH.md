@@ -15,3 +15,11 @@ pnpm install
 ```bash
 pnpm run dev
 ```
+
+
+## 项目目录
+
+docs : 文档
+
+packages : 包
+
