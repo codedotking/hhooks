@@ -1,4 +1,4 @@
-[中文](./README-ZH.md)
+[中文文档](./README-ZH.md)
 
 #  hhooks
 
